@@ -1,0 +1,9 @@
+div{
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+}
+
+.rectangle {
+    border: 1px solid greenyellow;
+}
